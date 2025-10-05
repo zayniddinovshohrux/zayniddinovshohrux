@@ -43,7 +43,7 @@
   <tr>
     <td align="center" width="96">
       <a href="#macropower-tech">
-        <img src="./img/html-flat.svg" width="48" height="48" alt="Golang" />
+       <i class="fa-brands fa-html5"></i>
       </a>
       <br>HTML
     </td>
