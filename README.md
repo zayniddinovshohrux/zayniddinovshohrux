@@ -1,4 +1,4 @@
-<img href="bg.png">
+<img href="file:///C:/Users/zayni/Desktop/bg.png">
 <h1 align="left" id="macropower-title">:wave: Hello there! I'm Zayniddinov Shohrux</h1>
 <h3 align="left">Full Stack Developer </h3>
 
