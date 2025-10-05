@@ -1,5 +1,4 @@
-<img width="2000" height="400" alt="bg" src="https://raw.githubusercontent.com/KevinPatel04/KevinPatel04/master/cover-thompson.png" /><img href="">
-img width="2000" height="400" alt="bg" src="https://raw.githubusercontent.com/KevinPatel04/KevinPatel04/master/header.png" /><img href="">
+<img href="https://raw.githubusercontent.com/KevinPatel04/KevinPatel04/master/header.png">
 <h1 align="left" id="macropower-title">:wave: Hello there! I'm Zayniddinov Shohrux</h1>
 <h3 align="left">Full Stack Developer </h3>
 
