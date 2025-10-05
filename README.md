@@ -84,7 +84,7 @@
       </a>
       <br>Postges
     </td>
-    <h2 align="left" id="macropower-tech">Connect with me</h2>
+
     
    
   </tr>
