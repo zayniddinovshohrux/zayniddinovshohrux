@@ -26,13 +26,12 @@
 <a href="#macropower-title">
   <img src="https://raw.githubusercontent.com/MacroPower/github-stats-transparent/output/generated/overview.svg" alt="macropower" align="right" />
 </a>
+👋 Hi, I'm Shohrux — a passionate Front-End & Back-End Developer from Uzbekistan.  
+💻 I build modern, responsive, and creative websites that focus on user experience and clean design.  
+🚀 Always learning new tech and improving my coding skills every day.  
+⚡ Love working on cool projects with minimalistic style and smart functionality.  
+📫 Feel free to check out my repositories and connect!
 
-- :office: &nbsp;I'm currently working at **[84.51°]**
-- :seedling: &nbsp;I’m currently working on my **[homelab]**
-- :speech_balloon: &nbsp;I like to talk about **K8s** and other **OSS**
-- :book: &nbsp;Learn more about my projects on my **[blog]**
-- :mailbox: &nbsp;Ask me anything on my **[issues page]**
-- :computer: &nbsp;Connect with me on **[LinkedIn]**
 
 <br>
 
