@@ -1,5 +1,5 @@
 <img src="https://raw.githubusercontent.com/KevinPatel04/KevinPatel04/master/header.png"  width="1808" height="208"/>
-<h1 align="left" id="macropower-title">:wave: Hello there! I'm Zayniddinov Shohrux</h1>
+<h1 align="left" id="macropower-title" font-size="50">:wave: Hello there! I'm Zayniddinov Shohrux</h1>
 <h3 align="left">Full Stack Developer </h3>
 
 <p align="left">
