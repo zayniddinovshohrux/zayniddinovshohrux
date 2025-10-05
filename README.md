@@ -84,12 +84,7 @@
       </a>
       <br>Postges
     </td>
-      <td align="center" width="96">
-      <a href="#macropower-tech">
-        <img src="./img/drf-flat.svg" width="48" height="48" alt="Golang" />
-      </a>
-      <br>DjangoRest
-    </td>
+      
    
   </tr>
 </table>
