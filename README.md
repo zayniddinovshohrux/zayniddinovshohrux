@@ -1,3 +1,4 @@
+<img href="bg.png">
 <h1 align="left" id="macropower-title">:wave: Hello there! I'm Zayniddinov Shohrux</h1>
 <h3 align="left">Full Stack Developer </h3>
 
@@ -43,31 +44,31 @@
   <tr>
     <td align="center" width="96">
       <a href="#macropower-tech">
-       <i class="fa-brands fa-html5"></i>
+       <img src="html5.svg" width="48" height="48"/>
       </a>
       <br>HTML
     </td>
     <td align="center" width="96">
       <a href="#macropower-tech">
-        <img src="./img/css-flat.svg" width="48" height="48" alt="Golang" />
+        <img src="css.svg" width="48" height="48" alt="Golang" />
       </a>
       <br>CSS
     </td>
     <td align="center" width="96">
       <a href="#macropower-tech">
-        <img src="./img/js-flat.svg" width="48" height="48" alt="Golang" />
+        <img src="js.svg" width="48" height="48" alt="Golang" />
       </a>
       <br>JavaScript
     </td>
     <td align="center" width="96">
       <a href="#macropower-tech">
-        <img src="./img/python-original.svg" width="48" height="48" alt="Python" />
+        <img src="py.svg" width="48" height="48" alt="Python" />
       </a>
       <br>Python
     </td>
     <td align="center" width="96">
       <a href="#macropower-tech">
-        <img src="https://django.org/img/isologo.svg" width="48" height="48" alt="Jsonnet" />
+        <img src="django.svg" width="48" height="48" alt="Jsonnet" />
       </a>
       <br>Django
     </td>
