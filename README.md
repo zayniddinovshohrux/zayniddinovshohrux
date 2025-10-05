@@ -50,37 +50,37 @@
   <tr>
     <td align="center" width="96">
       <a href="#macropower-tech">
-       <img src="html5.svg" width="48" height="48"/>
+       <img src="https://www.svgrepo.com/show/452228/html-5.svg" width="48" height="48"/>
       </a>
       <br>HTML
     </td>
     <td align="center" width="96">
       <a href="#macropower-tech">
-        <img src="css.svg" width="48" height="48" alt="Golang" />
+        <img src="https://www.svgrepo.com/show/373535/css.svg" width="48" height="48" alt="Golang" />
       </a>
       <br>CSS
     </td>
     <td align="center" width="96">
       <a href="#macropower-tech">
-        <img src="js.svg" width="48" height="48" alt="Golang" />
+        <img src="https://www.svgrepo.com/show/373705/js-official.svg" width="48" height="48" alt="Golang" />
       </a>
       <br>JavaScript
     </td>
     <td align="center" width="96">
       <a href="#macropower-tech">
-        <img src="py.svg" width="48" height="48" alt="Python" />
+        <img src="https://www.svgrepo.com/show/452091/python.svg" width="48" height="48" alt="Python" />
       </a>
       <br>Python
     </td>
     <td align="center" width="96">
       <a href="#macropower-tech">
-        <img src="django.svg" width="48" height="48" alt="Jsonnet" />
+        <img src="https://www.svgrepo.com/show/349341/djangoproject.svg" width="48" height="48" alt="Jsonnet" />
       </a>
       <br>Django
     </td>
     <td align="center" width="96">
       <a href="#macropower-tech">
-        <img src="./img/postgres-original.svg" width="48" height="48" alt="TypeScript" />
+        <img src="https://www.svgrepo.com/show/354200/postgresql.svg" width="48" height="48" alt="TypeScript" />
       </a>
       <br>Postges
     </td>
