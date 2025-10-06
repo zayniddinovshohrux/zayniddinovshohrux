@@ -88,11 +88,50 @@
       </a>
       <br>PostgeSQL
     </td>
-  
+    <td align="center" width="96">
+      <a href="#macropower-tech">
+        <img src="https://www.svgrepo.com/show/374093/sql.svg" width="48" height="48" alt="TypeScript" />
+      </a>
+      <br>SQL lite
+    </td
     
    
   </tr>
 </table>
+
+<h2 align="left" id="macropower-tech">Contect with me</h2>
+
+> Feel free to contact me if you're interested.
+
+<table>
+  <tr>
+     <td align="center" width="96">
+      <a href="#macropower-tech">
+        <img src="https://www.svgrepo.com/show/452115/telegram.svg" width="48" height="48" alt="Telegram" />
+      </a>
+      <br><a href="https://t.me/coderWZ">Telegram<a/>
+    </td>
+    <td align="center" width="96">
+      <a href="#macropower-tech">
+        <img src="https://www.svgrepo.com/show/452229/instagram-1.svg" width="48" height="48" alt="Instagram" />
+      </a>
+      <br><a href="https://www.instagram.com/__wohrux___/">Instagram<a/>
+    </td>
+      <td align="center" width="96">
+      <a href="#macropower-tech">
+        <img src="" width="48" height="48" alt="Linkedin" />
+      </a>
+      <br><a href="https://www.svgrepo.com/show/452047/linkedin-1.svg">LinkedIn<a/>
+    </td>
+    <td align="center" width="96">
+      <a href="#macropower-tech">
+        <img src="https://www.svgrepo.com/show/475700/youtube-color.svg" width="48" height="48" alt="YouTube" />
+      </a>
+      <br><a href="https://www.youtube.com/@codingWZ">Yotube<a/>
+    </td>
+  </tr>
+</table>
+
 <img src="https://www.svgrepo.com/show/493206/coffee.svg" width="48" height="48" align="right" top="-60"/>
 <h2 align="left">Coding Activity</h2>
 
