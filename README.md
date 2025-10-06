@@ -121,7 +121,7 @@
       <a href="#macropower-tech">
         <img src="https://www.svgrepo.com/show/452051/linkedin.svg" width="48" height="48" alt="Linkedin" />
       </a>
-      <br><a href="https://www.svgrepo.com/show/452047/linkedin-1.svg">LinkedIn<a/>
+      <br><a href="https://www.linkedin.com/in/shohrux-zayniddinov-b54b53364/">LinkedIn<a/>
     </td>
     <td align="center" width="96">
       <a href="#macropower-tech">
