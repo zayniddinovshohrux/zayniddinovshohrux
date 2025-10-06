@@ -99,7 +99,7 @@
   </tr>
 </table>
 
-<h2 align="left" id="macropower-tech">Contect with me</h2>
+<h2 align="left" id="macropower-tech">Connect with me</h2>
 
 > Feel free to contact me if you're interested.
 
