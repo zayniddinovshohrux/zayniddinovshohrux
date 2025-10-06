@@ -80,7 +80,7 @@
       <a href="#macropower-tech">
         <img src="https://www.svgrepo.com/show/354200/postgresql.svg" width="48" height="48" alt="TypeScript" />
       </a>
-      <br>Postges
+      <br>PostgeSQL
     </td>
 
     
