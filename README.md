@@ -119,7 +119,7 @@
     </td>
       <td align="center" width="96">
       <a href="#macropower-tech">
-        <img src="" width="48" height="48" alt="Linkedin" />
+        <img src="https://www.svgrepo.com/show/452051/linkedin.svg" width="48" height="48" alt="Linkedin" />
       </a>
       <br><a href="https://www.svgrepo.com/show/452047/linkedin-1.svg">LinkedIn<a/>
     </td>
