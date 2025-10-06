@@ -93,7 +93,7 @@
    
   </tr>
 </table>
-
+<img src="https://www.svgrepo.com/show/493206/coffee.svg" width="48" height="48"/>
 <h2 align="left">Coding Activity</h2>
 
 > Total logged open-source coding time since 2020-07-19. Updated every 1 hour.
