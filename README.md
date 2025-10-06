@@ -64,6 +64,12 @@
       </a>
       <br>JavaScript
     </td>
+      <td align="center" width="96">
+      <a href="#macropower-tech">
+        <img src="https://www.svgrepo.com/show/354259/react.svg" width="48" height="48" alt="Golang" />
+      </a>
+      <br>ReactJS
+    </td>
     <td align="center" width="96">
       <a href="#macropower-tech">
         <img src="https://www.svgrepo.com/show/452091/python.svg" width="48" height="48" alt="Python" />
@@ -82,7 +88,7 @@
       </a>
       <br>PostgeSQL
     </td>
-
+  
     
    
   </tr>
