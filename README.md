@@ -4,7 +4,7 @@
 <img src="https://www.svgrepo.com/show/295804/laptop-seo-and-web.svg">
 <p align="left">
   <a href="https://github.com/MacroPower/MacroPower">
-    <img src="https://komarev.com/ghpvc/?username=macropower" alt="page views" style="width:20px;"/>
+    
   </a>
   <a href="https://jacobcolvin.com">
     <img alt="Website" src="https://img.shields.io/website?url=https%3A%2F%2Fjacobcolvin.com">
