@@ -1,7 +1,7 @@
 <img src="https://raw.githubusercontent.com/KevinPatel04/KevinPatel04/master/header.png"  width="1808" height="208"/>
 <h1 align="left" id="macropower-title" font-size="50">:wave: Hello there! I'm Zayniddinov Shohrux</h1>
 <h3 align="left">Full Stack Developer </h3>
-<img src="https://www.svgrepo.com/show/295804/laptop-seo-and-web.svg">
+
 <p align="left">
   <a href="https://github.com/MacroPower/MacroPower">
     
