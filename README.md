@@ -127,7 +127,7 @@
       <a href="#macropower-tech">
         <img src="https://www.svgrepo.com/show/475700/youtube-color.svg" width="48" height="48" alt="YouTube" />
       </a>
-      <br><a href="https://www.youtube.com/@codingWZ">Yotube<a/>
+      <br><a href="https://www.youtube.com/@coderWZ">Yotube<a/>
     </td>
   </tr>
 </table>
