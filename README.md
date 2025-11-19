@@ -116,7 +116,7 @@
 <img src="https://www.svgrepo.com/show/493206/coffee.svg" width="48" height="48" align="right" top="-60"/>
 <h2 align="left">Coding Activity</h2>
 
-> Total logged open-source coding time since 2020-07-19. Updated every 1 hour.
+
 
 <!-- prettier-ignore-start -->
 <!-- START_SECTION:ascii_graph -->
