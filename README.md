@@ -1,6 +1,6 @@
 <img src="https://raw.githubusercontent.com/KevinPatel04/KevinPatel04/master/header.png"  width="1808" height="208"/>
 <h1 align="left" id="macropower-title" font-size="50">:wave: Hello I'm Zayniddinov Shohrux</h1>
-<h3 align="left">Full Stack Developer </h3>
+<h3 align="left">💻  Full Stack Developer </h3>
 
 
 
@@ -21,7 +21,7 @@
 
 <br>
 
-<h2 align="left" id="macropower-tech">Favorite Tech</h2>
+<h2 align="left" id="macropower-tech">👾 Favorite Tech</h2>
 
 > Tools, languages, and other things that I like to work with.
 
@@ -80,7 +80,7 @@
   </tr>
 </table>
 
-<h2 align="left" id="macropower-tech">Connect with me</h2>
+<h2 align="left" id="macropower-tech">📞 Connect with me</h2>
 
 > Feel free to contact me if you're interested.
 
@@ -114,7 +114,7 @@
 </table>
 
 <img src="https://www.svgrepo.com/show/493206/coffee.svg" width="48" height="48" align="right" top="-60"/>
-<h2 align="left">Coding Activity</h2>
+<h2 align="left">👨‍💻 Coding Activity</h2>
 
 
 
