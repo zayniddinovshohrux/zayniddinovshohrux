@@ -82,7 +82,7 @@
 
 <h2 align="left" id="macropower-tech">📞 Connect with me</h2>
 
-> Feel free to contact me if you're interested.
+> Feel free to contact me if you're interested.<img src="https://www.svgrepo.com/show/493206/coffee.svg" width="48" height="48" align="right" top="-60"/>
 
 <table>
   <tr>
@@ -113,7 +113,7 @@
   </tr>
 </table>
 
-<img src="https://www.svgrepo.com/show/493206/coffee.svg" width="48" height="48" align="right" top="-60"/>
+
 <h2 align="left">👨‍💻 Coding Activity</h2>
 
 
