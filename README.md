@@ -65,7 +65,7 @@
     </td>
      <td align="center" width="96">
       <a href="#macropower-tech">
-        <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTE0nHGIHXO6dUYKKmyzd9vBUlBcoFlfUDp7Q&s" width="48" height="48" alt="Jsonnet" />
+        <img src="https://res.cloudinary.com/upwork-cloud/image/upload/c_scale,w_1000/v1693070288/catalog/1695484018141937664/mhrtshyliszzro3s8c50.jpg" width="100" alt="Jsonnet" />
       </a>
       <br>DRF
     </td>
