@@ -75,6 +75,12 @@
       </a>
       <br>PostgeSQL
     </td>
+      <td align="center" width="96">
+      <a href="#macropower-tech">
+        <img src="https://assets.streamlinehq.com/image/private/w_300,h_300,ar_1/f_auto/v1/icons/3/fastapi-icon-72blnc5ihz9c30ltfruvm.png/fastapi-icon-sv7hsd0o3donlq26es2lr.png?_a=DATAiZAAZAA0" width="48"/>
+      </a>
+      <br>Fast API
+    </td>
     <td align="center" width="96">
       <a href="#macropower-tech">
         <img src="https://www.svgrepo.com/show/374093/sql.svg" width="48" height="48" alt="TypeScript" />
@@ -82,7 +88,7 @@
       <br>SQL lite
     </td
     
-   
+  
   </tr>
 </table>
 
