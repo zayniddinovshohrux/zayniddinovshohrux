@@ -9,8 +9,7 @@
 
 
 
-👋 Hi, I'm Shohrux — a passionate Front-End & Back-End Developer from Uzbekistan.  
-💻 I build modern, responsive, and creative websites that focus on user experience and clean design.  
+👨‍💻 I build modern, responsive, and creative websites that focus on user experience and clean design.  
 🚀 Always learning new tech and improving my coding skills every day.  
 ⚡ Love working on cool projects with minimalistic style and smart functionality.  
 📫 Feel free to check out my repositories and connect!
@@ -35,19 +34,19 @@
     </td>
     <td align="center" width="96">
       <a href="#macropower-tech">
-        <img src="https://www.svgrepo.com/show/373535/css.svg" width="48" height="48" alt="Golang" />
+        <img src="https://www.svgrepo.com/show/373535/css.svg" width="48" height="48"/>
       </a>
       <br>CSS
     </td>
     <td align="center" width="96">
       <a href="#macropower-tech">
-        <img src="https://www.svgrepo.com/show/373705/js-official.svg" width="48" height="48" alt="Golang" />
+        <img src="https://www.svgrepo.com/show/373705/js-official.svg" width="48" height="48"/>
       </a>
       <br>JavaScript
     </td>
       <td align="center" width="96">
       <a href="#macropower-tech">
-        <img src="https://www.svgrepo.com/show/354259/react.svg" width="48" height="48" alt="Golang" />
+        <img src="https://www.svgrepo.com/show/354259/react.svg" width="48" height="48"/>
       </a>
       <br>ReactJS
     </td>
@@ -59,19 +58,19 @@
     </td>
     <td align="center" width="96">
       <a href="#macropower-tech">
-        <img src="https://www.svgrepo.com/show/349341/djangoproject.svg" width="48" height="48" alt="Jsonnet" />
+        <img src="https://www.svgrepo.com/show/349341/djangoproject.svg" width="48" height="48" />
       </a>
       <br>Django
     </td>
      <td align="center" width="96">
       <a href="#macropower-tech">
-        <img src="https://res.cloudinary.com/upwork-cloud/image/upload/c_scale,w_1000/v1693070288/catalog/1695484018141937664/mhrtshyliszzro3s8c50.jpg" width="100" alt="Jsonnet" />
+        <img src="https://res.cloudinary.com/upwork-cloud/image/upload/c_scale,w_1000/v1693070288/catalog/1695484018141937664/mhrtshyliszzro3s8c50.jpg" width="100"/>
       </a>
       <br>DRF
     </td>
     <td align="center" width="96">
       <a href="#macropower-tech">
-        <img src="https://www.svgrepo.com/show/354200/postgresql.svg" width="48" height="48" alt="TypeScript" />
+        <img src="https://www.svgrepo.com/show/354200/postgresql.svg" width="48" height="48" />
       </a>
       <br>PostgeSQL
     </td>
@@ -83,7 +82,7 @@
     </td>
     <td align="center" width="96">
       <a href="#macropower-tech">
-        <img src="https://www.svgrepo.com/show/374093/sql.svg" width="48" height="48" alt="TypeScript" />
+        <img src="https://www.svgrepo.com/show/374093/sql.svg" width="48" height="48"/>
       </a>
       <br>SQL lite
     </td
@@ -108,7 +107,7 @@
       <a href="#macropower-tech">
         <img src="https://www.svgrepo.com/show/452229/instagram-1.svg" width="48" height="48" alt="Instagram" />
       </a>
-      <br><a href="https://www.instagram.com/__wohrux___/">Instagram<a/>
+      <br><a href="https://www.instagram.com/wz.shohrux/">Instagram<a/>
     </td>
       <td align="center" width="96">
       <a href="#macropower-tech">
